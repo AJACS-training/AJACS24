@@ -4,7 +4,7 @@
 ~目次
 #contents
 
-# 遺伝子発現データベース};に関する統合TV
+# 遺伝子発現データベースに関する統合TV
 - [統合TVの「発現情報」タグをクリック！](http://togotv.dbcls.jp/?category=%C8%AF%B8%BD%BE%F0%CA%F3)
 - [統合TV Curatedの発現制御解析から探す](http://togotv-curated.dbcls.jp/contents/category/expression#%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%BB%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E7%99%BA%E7%8F%BE%E3%82%92%E7%B6%B2%E7%BE%85%E7%9A%84%E3%81%AB%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%84)
 
